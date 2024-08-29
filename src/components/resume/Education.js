@@ -26,7 +26,7 @@ const Education = () => {
             title="Android Development."
             subTitle="FreeCodeCamp (2024 - 2024)"
             result="74/100"
-            des="Mobile app development for Android platform using Java ."
+            des="Mobile app development for Android platform using Java and Dart(Flutter)."
           />
           <ResumeCard
             title="Secondary level."
@@ -48,7 +48,7 @@ const Education = () => {
             title="Juniour Software Engineer"
             subTitle="Building @MasoHealth - (2023 - Present)"
             result="Nairobi County"
-            des="Working to bring working caring digital platform to keep our parents safe and healthy."
+            des="Working to bring a digital caring platform to keep our parents safe and healthy."
           />
           <ResumeCard
             title="Web Developer & Trainer"
