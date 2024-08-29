@@ -46,9 +46,9 @@ const Education = () => {
         <div className="mt-6 lgl:mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
             title="Juniour Software Engineer"
-            subTitle="Brian's Tech Group - (2023 - Present)"
-            result="Meru & Nairobi County"
-            des="Junior developers in my team contribute fresh perspectives, learn from experienced teammates, solve challenges collaboratively, and gain valuable hands-on experience in real-world coding projects."
+            subTitle="Building @MasoHealth - (2023 - Present)"
+            result="Nairobi County"
+            des="Working to bring working caring digital platform to keep our parents safe and healthy."
           />
           <ResumeCard
             title="Web Developer & Trainer"
